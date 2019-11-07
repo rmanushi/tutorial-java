@@ -4,7 +4,7 @@ public class loop
 	{
 		for(int i=0;i<5;++i)
 		{
-			System.out.println("Git");
+			System.out.println("Git.");
 		}
 	}
 }
