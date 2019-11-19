@@ -8,6 +8,18 @@ public class NumberMethods
 	{
 		
 	}
+	public static int maximumInt (int num1, int num2)
+	{
+
+	}
+	public static double minimumDouble (double num1, double num2)
+	{
+		
+	}
+	public static double maximumDouble (double num1, double num2)
+	{
+		
+	}
 	public static int median (int num1, int num2, int num3)
 	{
 		
@@ -34,6 +46,6 @@ public class NumberMethods
 	}
 	public static double solveEquation (int a, int b)
 	{
-		
+
 	}
 }
